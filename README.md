@@ -18,8 +18,22 @@ Here
 
 ## This matrix 𝐻 can be computed if you know at least four corresponding points between the two views. Once H is determined, any point in the original image can be mapped to the new perspective.
 
+## Example output!
+
+
+https://github.com/user-attachments/assets/1b3e71a8-3596-410a-bc84-a82a3540ef44
+
+
+
+
+
+### How to use?
+1. I recommend using colab
+2. Download/clone the repo, download the YOLO('yolov8l.pt') file which is already in the notebook
+3. Run with the files given
 
 ### What i plan to add
 * Pedestrians
 * Change of direction to be detected 
-* Smoother motion
+* Smoother motion, animations to be added.
+* Give the option to choose a car model etc.
